@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @skanda54
-- 👀 I’m interested in cad
+- 👀 I’m interested in cad, coding, github learning
 - 🌱 I’m currently learning cad
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
